@@ -19,10 +19,11 @@ Visão geral:
 ![image](https://github.com/user-attachments/assets/d96c64a9-2439-40d0-8323-87d4c2d1810d)
 
 
- Para que seja solucionado um dos pontos desejados pela empresa(otimização da alocação de veículos), iremos analisar a duração média dos 3 tipos de veículos: carro, ônibus e van.
-![image](https://github.com/user-attachments/assets/bd7937c6-ee9a-4613-bf8a-8663b0e6833a)
-![image](https://github.com/user-attachments/assets/b26c60b4-17e5-40da-aa04-682feecbe78f)
-![image](https://github.com/user-attachments/assets/ba18754d-f5c8-4b06-ad4e-fce2f372dbda)
+ Para que seja solucionado um dos pontos desejados pela empresa(otimização da alocação de veículos), iremos analisar a duração média dos 3 tipos de veículos: carro, ônibus e van.<br />
+ 
+![image](https://github.com/user-attachments/assets/bd7937c6-ee9a-4613-bf8a-8663b0e6833a).<br />
+![image](https://github.com/user-attachments/assets/b26c60b4-17e5-40da-aa04-682feecbe78f)<br />
+![image](https://github.com/user-attachments/assets/ba18754d-f5c8-4b06-ad4e-fce2f372dbda)<br />
 
   A duração média da corrida de carro é de 34,51 minutos, de ônibus é 34,88 minutos e de van é 35,22 minutos. Ficando:
 1)Carro
@@ -32,12 +33,12 @@ Visão geral:
  Porém, também deve ser levado em conta os demais gastos com os carros, como o combustível, manutenção, seguro, IPVA, higienização, dentre outros aspectos que não foram pedidos para serem levados em conta nessa análise. Então, os carros levam vantagem quando analisamos especificamente a questão da agilidade.
  
  Da mesma forma, abordaremos a questão do tempo de espera dos passageiros, o que faz os passageiros esperarem muito tempo pelo transporte?
- A resposta é que pode ser uma série de fatores, como superlotação, fazendo com que o passageiro tenha que esperar pelo próximo transporte disponível, desorganização com os que foram estabelecidos, dias/semana/mês que possuem uma demanda maior, dentre outros.
+ A resposta é que pode ser uma série de fatores, como superlotação, fazendo com que o passageiro tenha que esperar pelo próximo transporte disponível, desorganização com os que foram estabelecidos, dias/semana/mês que possuem uma demanda maior, dentre outros.<br />
 
- ![image](https://github.com/user-attachments/assets/fe7169d6-4e3e-4518-81ba-f8e2677fac68)
-![image](https://github.com/user-attachments/assets/b7d6d0fd-51ca-4bd1-88e0-c1ae2f753f96)
-![image](https://github.com/user-attachments/assets/c82a61f6-6c22-4017-a62d-ddfab996a1ca)
-![image](https://github.com/user-attachments/assets/44810d9a-15f0-4022-9482-aa71c1a1bed0)
+ ![image](https://github.com/user-attachments/assets/fe7169d6-4e3e-4518-81ba-f8e2677fac68)<br />
+![image](https://github.com/user-attachments/assets/b7d6d0fd-51ca-4bd1-88e0-c1ae2f753f96)<br />
+![image](https://github.com/user-attachments/assets/c82a61f6-6c22-4017-a62d-ddfab996a1ca)<br />
+![image](https://github.com/user-attachments/assets/44810d9a-15f0-4022-9482-aa71c1a1bed0)<br />
 
  
  Ao se observar o gráfico, podemos inferir que:
